@@ -22,7 +22,7 @@ html {
     display: grid;
     grid-template-columns: 80px 80px 80px 80px;
     grid-template-rows: 80px 80px 80px 80px;
-    border: 1px solid #550032;
+    border: 1px solid #c2187b;
   }
   
   .grid button {
