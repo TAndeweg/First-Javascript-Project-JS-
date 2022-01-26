@@ -14,7 +14,7 @@ html {
   .game {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
     padding: 15px;
-    background-color: #AA3939;
+    background-color: #ca6a59;
     border-radius: 5px;
   }
   
@@ -73,3 +73,6 @@ html {
     color:#AA3939;
     height: 80px;
   }
+
+
+  
